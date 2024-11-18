@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/9n7z5QR/laptop-xps-9520-t-white-gallery-4.jpg",
+    "name": "Dell XPS 15",
+    "category": "Laptops",
+    "detail": "A powerful laptop with an immersive 15.6-inch InfinityEdge display, ideal for professionals and creatives.",
+    "specification": [
+      "Intel Core i7",
+      "16GB RAM",
+      "512GB SSD",
+      "15.6-inch Full HD"
+    ],
+    "rating": 4.6,
+    "price": 1399.99
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/HLv832B/images.jpg",
+    "name": "MacBook Air M2",
+    "category": "MacBook",
+    "detail": "Lightweight and ultra-thin, the MacBook Air M2 offers impressive performance with the new Apple M2 chip.",
+    "specification": ["Apple M2", "8GB RAM", "256GB SSD", "13.6-inch Retina"],
+    "rating": 4.8,
+    "price": 1199.99
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/bWsRdh5/617l83e-Y1r-L-AC-UF1000-1000-QL80.jpg",
+    "name": "Samsung Galaxy S23",
+    "category": "Phones",
+    "detail": "Samsung's latest flagship with stunning camera quality and vibrant AMOLED display.",
+    "specification": [
+      "Snapdragon 8 Gen 2",
+      "8GB RAM",
+      "128GB Storage",
+      "6.1-inch AMOLED"
+    ],
+    "rating": 4.7,
+    "price": 799.99
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/X4QV4J9/Pre-Owned-2022-Apple-i-Phone-14-Pro-Max-128-GB-Deep-Purple-Unlocked-US-version-Refurbished-Good-82f7.webp",
+    "name": "iPhone 14 Pro",
+    "category": "Phones",
+    "detail": "Experience the best of Apple with the iPhone 14 Pro, featuring the powerful A16 chip and advanced camera system.",
+    "specification": [
+      "A16 Bionic",
+      "6GB RAM",
+      "256GB Storage",
+      "6.1-inch Super Retina XDR"
+    ],
+    "rating": 4.9,
+    "price": 1099.99
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/5r3z6PT/HP-Spectre-x360-15-Price-in-BD.webp",
+    "name": "HP Spectre x360",
+    "category": "Laptops",
+    "detail": "Versatile and sleek 2-in-1 laptop with a 4K display, perfect for creative professionals on the go.",
+    "specification": ["Intel Core i7", "16GB RAM", "1TB SSD", "13.3-inch 4K"],
+    "rating": 4.5,
+    "price": 1599.99
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/p2XQTjQ/Used-Apple-Watch-SE-44mm-Space-Gray-Aluminum-Black-Sport-Band-MYDT2-LL-A-Used-53343419-e55c-43c6-b6b.webp",
+    "name": "Apple Watch SE",
+    "category": "Smart Watches",
+    "detail": "Affordable Apple Watch with essential fitness and health tracking features.",
+    "specification": ["1.78-inch Retina", "GPS", "Water-resistant"],
+    "rating": 4.3,
+    "price": 279.99
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/YtH1PRd/wh-1000xm4-Brothers-4-800x800.jpg",
+    "name": "Sony WH-1000XM5",
+    "category": "Accessories",
+    "detail": "Top-tier noise-canceling headphones with long battery life and excellent sound quality.",
+    "specification": ["Noise cancellation", "Bluetooth", "30 hours"],
+    "rating": 4.9,
+    "price": 349.99
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/wY7GpCF/Pixel-7-2-800x800.jpg",
+    "name": "Google Pixel 7",
+    "category": "Phones",
+    "detail": "Google's latest phone with the Tensor G2 chip, offering excellent photo capabilities.",
+    "specification": [
+      "Google Tensor G2",
+      "8GB RAM",
+      "128GB Storage",
+      "6.3-inch OLED"
+    ],
+    "rating": 4.6,
+    "price": 699.99
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co.com/GPygF6Z/Surface-laptop-4-headline-shot.jpg",
+    "name": "Microsoft Surface Laptop 4",
+    "category": "Laptops",
+    "detail": "A powerful, lightweight laptop with premium build quality, designed for business and personal use.",
+    "specification": [
+      "AMD Ryzen 7",
+      "16GB RAM",
+      "512GB SSD",
+      "13.5-inch PixelSense"
+    ],
+    "rating": 4.4,
+    "price": 1299.99
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co.com/64DT0JR/images-1.jpg",
+    "name": "Apple Watch Series 8",
+    "category": "Smart Watches",
+    "detail": "The latest Apple Watch with advanced health and fitness tracking features, including ECG and Blood Oxygen monitoring.",
+    "specification": ["1.9-inch Retina", "Blood Oxygen", "ECG", "GPS"],
+    "rating": 4.8,
+    "price": 399.99
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co.com/mCKQ1tJ/images-2.jpg",
+    "name": "Logitech MX Master 3",
+    "category": "Accessories",
+    "detail": "Ergonomic and highly customizable mouse with excellent precision, ideal for productivity.",
+    "specification": ["Ergonomic", "Bluetooth", "Customizable buttons"],
+    "rating": 4.8,
+    "price": 99.99
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co.com/yV2XyYt/51-CKt-Wl-TRs-L-AC-UF1000-1000-QL80.jpg",
+    "name": "iPhone Charger 30W",
+    "category": "Accessories",
+    "detail": "Fast and compact 30W USB-C charger for iPhone and other Apple devices.",
+    "specification": ["USB-C", "Fast charging", "Compact"],
+    "rating": 4.6,
+    "price": 29.99
+  },
+  {
+    "id": 13,
+    "image": "https://i.ibb.co.com/ctTz0NK/macbook-pro-14-m2-max.webp",
+    "name": "MacBook Pro 14-inch",
+    "category": "MacBook",
+    "detail": "High-performance MacBook Pro with M1 Pro chip and Liquid Retina XDR display for professionals.",
+    "specification": [
+      "Apple M1 Pro",
+      "16GB RAM",
+      "512GB SSD",
+      "14-inch Liquid Retina XDR"
+    ],
+    "rating": 4.9,
+    "price": 1999.99
+  },
+  {
+    "id": 14,
+    "image": "https://i.ibb.co.com/44nWxgv/galaxy-watch5-performance-left-visual-mo.webp",
+    "name": "Samsung Galaxy Watch 5",
+    "category": "Smart Watches",
+    "detail": "Advanced smartwatch with sleep tracking, heart rate monitoring, and long battery life.",
+    "specification": [
+      "1.4-inch AMOLED",
+      "GPS",
+      "Heart rate monitor",
+      "Sleep tracking"
+    ],
+    "rating": 4.5,
+    "price": 299.99
+  },
+  {
+    "id": 15,
+    "image": "https://i.ibb.co.com/rptX97N/images-3.jpg",
+    "name": "Lenovo ThinkPad X1 Nano",
+    "category": "Laptops",
+    "detail": "Lightweight and durable business laptop with excellent security features and a 2K display.",
+    "specification": ["Intel Core i7", "16GB RAM", "512GB SSD", "13-inch 2K"],
+    "rating": 4.3,
+    "price": 1349.99
+  },
+  {
+    "id": 16,
+    "image": "https://i.ibb.co.com/zJ49M3k/3797-9470.jpg",
+    "name": "Bose QuietComfort Earbuds",
+    "category": "Accessories",
+    "detail": "Premium wireless earbuds with noise-canceling features, ideal for music lovers.",
+    "specification": ["Noise cancellation", "Wireless", "6 hours battery"],
+    "rating": 4.7,
+    "price": 279.99
+  },
+  {
+    "id": 17,
+    "image": "https://i.ibb.co.com/vVbMN4Y/i-Phone-13-mini-review-the-small-phone-thats-actually-good.jpg",
+    "name": "iPhone 13 Mini",
+    "category": "Iphone",
+    "detail": "Compact and powerful, the iPhone 13 Mini is ideal for those who prefer smaller phones without compromising on performance.",
+    "specification": [
+      "A15 Bionic",
+      "4GB RAM",
+      "128GB Storage",
+      "5.4-inch Super Retina XDR"
+    ],
+    "rating": 4.5,
+    "price": 699.99
+  },
+  {
+    "id": 18,
+    "image": "https://i.ibb.co.com/pQ3zkm9/One-Plus-10-Pro.jpg",
+    "name": "OnePlus 10 Pro",
+    "category": "Phones",
+    "detail": "Flagship OnePlus phone with top-of-the-line specs and a premium display for smooth visuals.",
+    "specification": [
+      "Snapdragon 8 Gen 1",
+      "12GB RAM",
+      "256GB Storage",
+      "6.7-inch AMOLED"
+    ],
+    "rating": 4.6,
+    "price": 899.99
+  },
+  {
+    "id": 19,
+    "image": "https://i.ibb.co.com/YbLD0ZM/i-Pad-Pro-11-Magic-Black-1-600x.webp",
+    "name": "iPad Pro 11-inch",
+    "category": "Accessories",
+    "detail": "Powerful tablet with Apple M1 chip, ideal for creative and professional tasks.",
+    "specification": ["Apple M1", "128GB", "11-inch Liquid Retina"],
+    "rating": 4.8,
+    "price": 799.99
+  },
+  {
+    "id": 20,
+    "image": "https://i.ibb.co.com/3YmdXmN/Huawei-Mate-Book-X-Pro-featured-image-packshot-review.jpg",
+    "name": "Huawei MateBook X Pro",
+    "category": "Laptops",
+    "detail": "Premium ultrabook with a beautiful 3K display and powerful specs for professional users.",
+    "specification": ["Intel Core i7", "16GB RAM", "1TB SSD", "13.9-inch 3K"],
+    "rating": 4.7,
+    "price": 1499.99
+  },
+  {
+    "id": 21,
+    "image": "https://i.ibb.co.com/vVbMN4Y/i-Phone-13-mini-review-the-small-phone-thats-actually-good.jpg",
+    "name": "iPhone 12 Mini",
+    "category": "Iphone",
+    "detail": "Compact and powerful, the iPhone 13 Mini is ideal for those who prefer smaller phones without compromising on performance.",
+    "specification": [
+      "A15 Bionic",
+      "4GB RAM",
+      "128GB Storage",
+      "5.4-inch Super Retina XDR"
+    ],
+    "rating": 4.5,
+    "price": 799.99
+  },
+  {
+    "id": 22,
+    "image": "https://i.ibb.co.com/rptX97N/images-3.jpg",
+    "name": "Lenovo ThinkPad X2 Nano",
+    "category": "Laptops",
+    "detail": "Lightweight and durable business laptop with excellent security features and a 2K display.",
+    "specification": ["Intel Core i7", "16GB RAM", "512GB SSD", "13-inch 2K"],
+    "rating": 4.3,
+    "price": 1359.99
+  }
+]
